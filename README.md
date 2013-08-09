@@ -1,4 +1,4 @@
 Public Library
 =============
 
-This is a library with options to move books around. To use, use PartOne. It is the only part.
+A library built in Ruby that allows the user to move books from shelf to shelf.
